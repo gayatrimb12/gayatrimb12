@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gayatri Mylarapu Bagepalli</h1>
+<h1 align="center">Hi, I'm Gayatri Mylarapu Bagepalli</h1>
 <h3 align="center">Aspiring full stack developer</h3>
 
 - 🔭 I’m currently working on **a startup with my friend**
